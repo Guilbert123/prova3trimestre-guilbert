@@ -1,7 +1,13 @@
-{body 
-h1 {color: aqua;}
-img {width: 50;}
+body{
+font-style: italic;
+background-color: aqua;
+  width: min-content;
+ font-size: larger;
+text-align: center;
 
+
+
+}
 
 
 
